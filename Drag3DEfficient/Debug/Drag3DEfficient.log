@@ -1,4 +1,0 @@
-﻿  main.cpp
-d:\profiles\njp2424\desktop\physics\level2\physics-drag-3d-efficient-mastervs2019\drag3defficient\main.cpp(600): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-d:\profiles\njp2424\desktop\physics\level2\physics-drag-3d-efficient-mastervs2019\drag3defficient\main.cpp(633): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Drag3DEfficient.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level2\physics-drag-3D-Efficient-masterVS2019\Drag3DEfficient\Debug\Drag3DEfficient.exe
